@@ -1,17 +1,17 @@
 ![Welcome!](COIp95v7.gif)
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bekmuhammad Mamadiyev&theme=github_dark" alt="info">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bekmuhammad-Mamadiyev&theme=github_dark" alt="info">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bekmuhammad-Mamadiyev&theme=github_dark&show_icons=true)](https://github.com/Bekmuhammad-Mamadiyev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bekmuhammad-Mamadiyev&theme=github_dark&layout=compact)](https://wakatime.com/@Bekmuhammad-Mamadiyev)
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
-[![Bekmuhammad's github stats](https://github-readme-stats.vercel.app/api?username=ShukuraliProgrammer&theme=github_dark&show_icons=true)](https://github.com/ShukuraliProgrammer/)
+[![Bekmuhammad's github stats](https://github-readme-stats.vercel.app/api?username=Bekmuhammad-Mamadiyev&theme=github_dark&show_icons=true)](https://github.com/Bekmuhammad-Mamadiyev/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShukuraliProgrammer&theme=tokyonight_duo&hide_border=true)](https://github.com/ShukuraliProgrammer/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bekmuhammad-Mamadiyev&theme=tokyonight_duo&hide_border=true)](https://github.com/Bekmuhammad-Mamadiyev/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 
@@ -43,6 +43,6 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shukurali-rezamonov/)](https://www.linkedin.com/in/shukurali-rezamonov/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shukuralijob@gmail.com)](mailto:shukurdev2002@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Shukurali_Rezamonov)](https://t.me/Shukurali_Rezamonov)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekmuhammad-mamadiyev/)](https://www.linkedin.com/in/bekmuhammad-mamadiyev/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bekmuhammadmamadiyev90@gmail.com)](mailto:bekmuhammadmamadiyev90@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Bekmuhammad_Mamadiyev)](https://t.me/Bekmuhammad_Mamadiyev)
