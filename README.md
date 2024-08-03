@@ -1,18 +1,48 @@
-<h1 align="center">Mamadiyev Bekmuhammad</h1>
-<h3 align="center">Backend developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bekmuhammad-mamadiyev&label=Profile%20views&color=0e75b6&style=flat" alt="bekmuhammad-mamadiyev" /> </p>
-<p align="right"> <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="bekmuhammad-mamadiyev" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bekmuhammad-mamadiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bekmuhammad-mamadiyev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bekmuhammad_mamadiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bekmuhammad_mamadiyev" height="30" width="40" /></a>
-</p>
+![Welcome!](COIp95v7.gif)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bekmuhammad-mamadiyev&show_icons=true&locale=en&layout=compact" alt="bekmuhammad-mamadiyev" /></p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bekmuhammad Mamadiyev&theme=github_dark" alt="info">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekmuhammad-mamadiyev&show_icons=true&locale=en" alt="bekmuhammad-mamadiyev" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bekmuhammad-Mamadiyev&theme=github_dark&show_icons=true)](https://github.com/Bekmuhammad-Mamadiyev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bekmuhammad-Mamadiyev&theme=github_dark&layout=compact)](https://wakatime.com/@Bekmuhammad-Mamadiyev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bekmuhammad-mamadiyev&" alt="bekmuhammad-mamadiyev" /></p>
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
+
+[![Bekmuhammad's github stats](https://github-readme-stats.vercel.app/api?username=ShukuraliProgrammer&theme=github_dark&show_icons=true)](https://github.com/ShukuraliProgrammer/)
+<!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShukuraliProgrammer&theme=tokyonight_duo&hide_border=true)](https://github.com/ShukuraliProgrammer/)
+<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+
+
+
+**Back-end**
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+
+**Databases**
+
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![SQLite](https://img.shields.io/badge/-Sqlite-%232c3e50?style=flat-square&logo=Sqlite)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="digitalocean" />
+
+**Learning**
+
+**Contact**
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shukurali-rezamonov/)](https://www.linkedin.com/in/shukurali-rezamonov/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shukuralijob@gmail.com)](mailto:shukurdev2002@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Shukurali_Rezamonov)](https://t.me/Shukurali_Rezamonov)
